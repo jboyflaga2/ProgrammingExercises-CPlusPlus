@@ -1,0 +1,7 @@
+Here's a little program that lists out all of the Keith
+numbers between 1 and 10,000.
+
+A Keith number is, according to Wikipedia.org, any n-digit
+number that appears in the Fibonacci-like sequence that starts
+off with the numbers n digits and continues so that each
+subsequent term is the sum of the preceding n.

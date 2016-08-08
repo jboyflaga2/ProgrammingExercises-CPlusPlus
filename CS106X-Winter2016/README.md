@@ -1,4 +1,4 @@
-#NOTE: I transfered my files for this in https://github.com/jboyflaga2/Math-ComSci-Exercises/blob/master/CS106X-Winter2016
+#NOTE: I transfered my files for this to https://github.com/jboyflaga2/Math-ComSci-Exercises/blob/master/CS106X-Winter2016
 
 ------------------------------
 
@@ -24,7 +24,7 @@ But the first handout, the handout on the Course Information (01-CS106X-Course-I
 		<li>Looking at another student's code.</li>
 		
 		<li>Showing another student your code, or making your code public so
-		that it’s searchable and easily discovered online or elsewhere.</li>
+		that itâ€™s searchable and easily discovered online or elsewhere.</li>
 		
 		<li>Discussing assignments in such detail that you duplicate a portion of
 		someone else's code in your own program.</li>

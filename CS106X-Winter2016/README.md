@@ -1,3 +1,7 @@
+#NOTE: I transfered my files for this in https://github.com/jboyflaga2/Math-ComSci-Exercises/blob/master/CS106X-Winter2016
+
+------------------------------
+
 # This folder contains my [parts of my] solutions to the assignments, discussion sections, etc. of Stanford's CS106X course last Winter 2016
 
 July 21, 2016 - I need to review data structures because I am giong to solve some programming problems in UVA Online Judge that need knowledge in data structures.
